@@ -1,4 +1,8 @@
 ![Complex Powers](https://github.com/gametekker/zuu/blob/master/my_image.png "Example Image")
+## Compilation
+`cmake -S . -B build`
+`cmake --build build`
+
 ## Example Usage
 
 This project includes a set of helper functions designed to generate images based on the outputs of complex functions. These helper functions can be considered as part of a simple API for image generation from complex function outputs. Here's how to use them:
