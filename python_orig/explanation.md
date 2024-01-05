@@ -96,4 +96,4 @@ Using a libpng library.
         return 0;
     }
 
-My comment: I made some modifications, including moving the colormap generation into the function, but in this instance, chatgpt was particularly helpful because image io in c++ seems unnecessarily tedious.
+My comment: I had to make small modifications to the ai generated code, including moving the colormap generation into the function, but in this instance, chatgpt was particularly helpful because image io in c++ seems unnecessarily tedious.
