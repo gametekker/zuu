@@ -10,12 +10,14 @@ To run the example, after building and compiling, run the following
 
 `./build/zuu`
 
-## Example Usage
+## Overview
 
 This project includes a set of helper functions designed to generate images based on the outputs of complex functions f(z).
 
 - the pixel location in the image corresponds to the input value z in the complex plane
 - the pixel is colored as a function of the output of f(z) at that pixel
+
+## Example Usage
 
 These helper functions can be considered as part of a simple API for image generation from complex function outputs. Here's how to use them:
 
