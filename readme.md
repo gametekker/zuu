@@ -1,4 +1,3 @@
-![Complex Powers](https://github.com/gametekker/zuu/blob/master/my_image.png "Example Image")
 
 ## See Video Demo:
 https://youtu.be/H7H9GEahH9w
